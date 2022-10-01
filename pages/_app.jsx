@@ -95,7 +95,7 @@ class MyApp extends App {
                 autoClose={5000}
                 hideProgressBar={false}
                 newestOnTop={false}
-                closeOnClick
+                closeonClick
                 rtl={locale === "ar" ? true : false}
                 pauseOnHover
               />

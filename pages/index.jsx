@@ -703,7 +703,7 @@ const Home = () => {
         id="popupCompare"
         data-backdrop="static"
         data-keyboard="false"
-        tabindex="-1"
+        tabIndex="-1"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-xl modal-dialog-centered ps-compare--popup">
@@ -907,7 +907,7 @@ const Home = () => {
         id="popupLanguage"
         data-backdrop="static"
         data-keyboard="false"
-        tabindex="-1"
+        tabIndex="-1"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-dialog-centered ps-popup--select">
@@ -957,7 +957,7 @@ const Home = () => {
         id="popupCurrency"
         data-backdrop="static"
         data-keyboard="false"
-        tabindex="-1"
+        tabIndex="-1"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-dialog-centered ps-popup--select">

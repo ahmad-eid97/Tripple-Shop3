@@ -144,9 +144,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -197,9 +197,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -248,9 +248,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -299,9 +299,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -351,9 +351,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -403,9 +403,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -512,9 +512,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -563,9 +563,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -614,9 +614,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -665,9 +665,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -716,9 +716,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -767,9 +767,9 @@ const Home5 = () => {
                                                       <div className="ps-product__actions ps-product__group-mobile">
                                                           <div className="ps-product__quantity">
                                                               <div className="def-number-input number-input safari_only">
-                                                                  <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                                  <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                                   <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                                  <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                                  <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                               </div>
                                                           </div>
                                                           <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -1245,7 +1245,7 @@ const Home5 = () => {
           </div>
       </div>
       <button className="btn scroll-top"><i className="fa fa-angle-double-up"></i></button>
-      <div className="modal fade" id="popupQuickview" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupQuickview" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
           <div className="modal-dialog modal-xl modal-dialog-centered ps-quickview">
               <div className="modal-content">
                   <div className="modal-body">
@@ -1309,9 +1309,9 @@ const Home5 = () => {
                                               <h6>Quantity</h6>
                                               <div className="d-md-flex align-items-center">
                                                   <div className="def-number-input number-input safari_only">
-                                                      <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                      <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                       <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                      <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                      <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                   </div><a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcartV2">Add to cart</a>
                                               </div>
                                           </div>
@@ -1332,7 +1332,7 @@ const Home5 = () => {
               </div>
           </div>
       </div>
-      <div className="modal fade" id="popupCompare" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupCompare" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
           <div className="modal-dialog modal-xl modal-dialog-centered ps-compare--popup">
               <div className="modal-content">
                   <div className="modal-body">
@@ -1454,7 +1454,7 @@ const Home5 = () => {
               </div>
           </div>
       </div>
-      <div className="modal fade" id="popupLanguage" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupLanguage" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
           <div className="modal-dialog modal-dialog-centered ps-popup--select">
               <div className="modal-content">
                   <div className="modal-body">
@@ -1472,7 +1472,7 @@ const Home5 = () => {
               </div>
           </div>
       </div>
-      <div className="modal fade" id="popupCurrency" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupCurrency" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
           <div className="modal-dialog modal-dialog-centered ps-popup--select">
               <div className="modal-content">
                   <div className="modal-body">
@@ -1491,7 +1491,7 @@ const Home5 = () => {
               </div>
           </div>
       </div>
-      <div className="modal fade" id="popupAddcart" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupAddcart" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
           <div className="modal-dialog modal-lg modal-dialog-centered ps-addcart">
               <div className="modal-content">
                   <div className="modal-body">
@@ -1538,9 +1538,9 @@ const Home5 = () => {
                                           <div className="ps-product__actions ps-product__group-mobile">
                                               <div className="ps-product__quantity">
                                                   <div className="def-number-input number-input safari_only">
-                                                      <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                      <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                       <input className="quantity" min="0" name="quantity" value="1" type="number" />
-                                                      <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
+                                                      <button className="plus" onClick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                   </div>
                                               </div>
                                               <div className="ps-product__cart"> <a className="ps-btn ps-btn--warning" href="#" data-toggle="modal" data-target="#popupAddcart">Add to cart</a></div>
@@ -1563,7 +1563,7 @@ const Home5 = () => {
               </div>
           </div>
       </div>
-      <div className="modal fade" id="popupAddcartV2" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div className="modal fade" id="popupAddcartV2" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-lg modal-dialog-centered ps-addcart">
             <div className="modal-content">
                 <div className="modal-body">
@@ -1629,7 +1629,7 @@ const Home5 = () => {
                                         <div className="ps-product__actions ps-product__group-mobile">
                                             <div className="ps-product__quantity">
                                                 <div className="def-number-input number-input safari_only">
-                                                    <button className="minus" onclick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
+                                                    <button className="minus" onClick="this.parentNode.querySelector('input[type=number]').stepDown()"><i className="icon-minus"></i></button>
                                                     <input className="quantity" min="0" name="quantity" value="1" type="number" />
                                                     <button className="plus" onclick="this.parentNode.querySelector('input[type=number]').stepUp()"><i className="icon-plus"></i></button>
                                                 </div>
