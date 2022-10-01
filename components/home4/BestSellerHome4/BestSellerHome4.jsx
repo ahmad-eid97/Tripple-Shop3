@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import ProductBox from '../../productBox/ProductBox';
+import ProductBox from '../../ProductBox/ProductBox';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from 'swiper';

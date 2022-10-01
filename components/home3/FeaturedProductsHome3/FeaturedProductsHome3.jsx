@@ -1,4 +1,4 @@
-import ProductBox from './../../ProductBox/ProductBox';
+import ProductBox from '../../ProductBox/ProductBox';
 
 const FeaturedProductsHome3 = () => {
   return (
