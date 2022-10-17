@@ -1,6 +1,6 @@
 import React from 'react'
 
-const NavBarHome8 = () => {
+const NavbarHome8 = () => {
   return (
     <>
       <header className="ps-header ps-header--2 ps-header--8">
@@ -772,4 +772,4 @@ const NavBarHome8 = () => {
   )
 }
 
-export default NavBarHome8;
+export default NavbarHome8;
