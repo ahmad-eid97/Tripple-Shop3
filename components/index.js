@@ -111,7 +111,7 @@ export { default as StyleHome7 } from './home7/StyleHome7/StyleHome7';
 export { default as FooterHome7 } from './home7/FooterHome7/FooterHome7';
 
 // HOME 8 COMPONENTS
-export { default as NavbarHome8 } from './home8/NavbarHome8/NavbarHome8';
+// export { default as NavbarHome8 } from './home8/NavbarHome8/NavbarHome8';
 
 export { default as HeaderHome8 } from './home8/HeaderHome8/HeaderHome8';
 
