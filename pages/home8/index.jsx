@@ -354,7 +354,7 @@ const Home8 = () => {
         <div className="ps-preloader-section ps-preloader-left"></div>
         <div className="ps-preloader-section ps-preloader-right"></div>
     </div>
-    <div className="modal fade" id="popupQuickview" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupQuickview" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-xl modal-dialog-centered ps-quickview">
             <div className="modal-content">
                 <div className="modal-body">
@@ -441,7 +441,7 @@ const Home8 = () => {
             </div>
         </div>
     </div>
-    <div className="modal fade" id="popupCompare" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupCompare" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-xl modal-dialog-centered ps-compare--popup">
             <div className="modal-content">
                 <div className="modal-body">
@@ -563,7 +563,7 @@ const Home8 = () => {
             </div>
         </div>
     </div>
-    <div className="modal fade" id="popupLanguage" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupLanguage" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-dialog-centered ps-popup--select">
             <div className="modal-content">
                 <div className="modal-body">
@@ -581,7 +581,7 @@ const Home8 = () => {
             </div>
         </div>
     </div>
-    <div className="modal fade" id="popupCurrency" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupCurrency" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-dialog-centered ps-popup--select">
             <div className="modal-content">
                 <div className="modal-body">
@@ -600,7 +600,7 @@ const Home8 = () => {
             </div>
         </div>
     </div>
-    <div className="modal fade" id="popupAddcart" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupAddcart" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-lg modal-dialog-centered ps-addcart">
             <div className="modal-content">
                 <div className="modal-body">
@@ -672,7 +672,7 @@ const Home8 = () => {
             </div>
         </div>
     </div>
-    <div className="modal fade" id="popupAddcartV2" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-hidden="true">
+    <div className="modal fade" id="popupAddcartV2" data-backdrop="static" data-keyboard="false" tabIndex="-1" aria-hidden="true">
         <div className="modal-dialog modal-lg modal-dialog-centered ps-addcart">
             <div className="modal-content">
                 <div className="modal-body">
