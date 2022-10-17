@@ -1,4 +1,4 @@
-import { NavbarHome8, HeaderHome8, LatestProductsHome8, BestSellerHome8, FeaturedProductsHome8, FooterHome8 } from '../../components'
+import { NavbarHome8, HeaderHome8, LatestProductsHome8, BestSellerHome8, FeaturedProductsHome8, FooterHome8 } from '../../components';
 
 import langRedirection from "../../utils/redirections/langRedirection/langRedirection";
 import routeRedirection from "../../utils/redirections/routeRedirection/routeRedirection";
