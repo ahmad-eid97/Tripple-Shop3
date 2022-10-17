@@ -12,7 +12,7 @@ const Home8 = () => {
     <div className="ps-page">
 
         {/* NAVBAR SECTION */}
-        {/* <NavbarHome8 /> */}
+        {/* <NavbarHome8 /> */} 
 
         <div className="ps-home ps-home--8">
             <div className="ps-home__content">
