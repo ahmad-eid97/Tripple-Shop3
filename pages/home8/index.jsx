@@ -24,7 +24,7 @@ const Home8 = () => {
                     <HeaderHome8 />
 
                     <section className="ps-section--category ps-category--image">
-                        <h3 className="ps-section__title">Check out the most popular categories</h3>
+                        <h3 className="ps-section__title">Check out the most popular categories</h3> 
                         <div className="ps-section__content">
                             <div className="row">
                                 <div className="col-6 col-md-4">
