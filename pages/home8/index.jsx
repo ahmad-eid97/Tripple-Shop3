@@ -1,4 +1,4 @@
-import { NavbarHome8, HeaderHome8, LatestProductsHome8, BestSellerHome8, FeaturedProductsHome8, FooterHome8 } from '../../components';
+import { HeaderHome8, LatestProductsHome8, BestSellerHome8, FeaturedProductsHome8, FooterHome8 } from '../../components';
 
 import langRedirection from "../../utils/redirections/langRedirection/langRedirection";
 import routeRedirection from "../../utils/redirections/routeRedirection/routeRedirection";
@@ -12,7 +12,7 @@ const Home8 = () => {
     <div className="ps-page">
 
         {/* NAVBAR SECTION */}
-        <NavbarHome8 />
+        {/* <NavbarHome8 /> */}
 
         <div className="ps-home ps-home--8">
             <div className="ps-home__content">
