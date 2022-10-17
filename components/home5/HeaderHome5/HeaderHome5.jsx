@@ -1,4 +1,8 @@
-import React from 'react'
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation } from "swiper";
+
+import "swiper/css";
+import "swiper/css/navigation";
 
 const HeaderHome5 = () => {
   return (
@@ -6,7 +10,13 @@ const HeaderHome5 = () => {
         <div className="ps-section__overlay">
             <div className="ps-section__loading"></div>
         </div>
-        <div className="owl-carousel" data-owl-auto="false" data-owl-loop="true" data-owl-speed="15000" data-owl-gap="0" data-owl-nav="true" data-owl-dots="true" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-duration="1000" data-owl-mousedrag="on">
+        <Swiper
+          modules={[Navigation]}
+          spaceBetween={0}
+          slidesPerView={1}
+          navigation
+        >
+          <SwiperSlide>
             <div className="ps-banner" style={{ background:'#F0F2F5' }}>
                 <div className="container container-initial">
                     <div className="ps-banner__block">
@@ -24,6 +34,8 @@ const HeaderHome5 = () => {
                     </div>
                 </div>
             </div>
+          </SwiperSlide>
+          <SwiperSlide>
             <div className="ps-banner" style={{ background:'#FFCC00' }}>
                 <div className="container container-initial">
                     <div className="ps-banner__block">
@@ -41,6 +53,8 @@ const HeaderHome5 = () => {
                     </div>
                 </div>
             </div>
+          </SwiperSlide>
+          <SwiperSlide>
             <div className="ps-banner" style={{ background:'#DAECFA' }}>
                 <div className="container container-initial">
                     <div className="ps-banner__block">
@@ -57,7 +71,8 @@ const HeaderHome5 = () => {
                     </div>
                 </div>
             </div>
-        </div>
+          </SwiperSlide>
+        </Swiper>
     </section>
   )
 }
