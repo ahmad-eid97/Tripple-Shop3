@@ -32,7 +32,7 @@ const FooterHome9 = () => {
                                     <ul className="ps-social">
                                         <li><a className="ps-social__link facebook" href="#"><i className="fa-brands fa-facebook-f"> </i><span className="ps-tooltip">Facebook</span></a></li>
                                         <li><a className="ps-social__link instagram" href="#"><i className="fa-brands fa-instagram"></i><span className="ps-tooltip">Instagram</span></a></li>
-                                        <li><a className="ps-social__link youtube" href="#"><i className="fa-brands fa-youtube"></i><span className="ps-tooltip">Youtube</span></a></li>
+                                        <li><a className="ps-social__link youtube" href="#"><i className="fa-brands fa-youtube"></i><span className="ps-tooltip">Youtube</span></a></li> 
                                         <li><a className="ps-social__link pinterest" href="#"><i className="fa-brands fa-pinterest-p"></i><span className="ps-tooltip">Pinterest</span></a></li>
                                         <li><a className="ps-social__link linkedin" href="#"><i className="fa-brands fa-linkedin-in"></i><span className="ps-tooltip">Linkedin</span></a></li>
                                     </ul>
